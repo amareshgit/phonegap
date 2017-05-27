@@ -1,0 +1,20 @@
+[
+  {"master":true,"title":"Ottawa","description":"Adobe Canadian Headquarters","address":"343 Preston St.  Ottawa ON","phone":"16135551212","latitude":45.4024491,"longitude":-75.710489,"imgUrl1":"content/mobileapps/hybrid-reference-app/en/welcome/locations/ottawa/jcr_content/cards/img1.img.png/1494586170215.png","imgUrl2":"content/mobileapps/hybrid-reference-app/en/welcome/locations/ottawa/jcr_content/cards/img2.img.png/1494586177208.png","imgUrl3":"content/mobileapps/hybrid-reference-app/en/welcome/locations/ottawa/jcr_content/cards/img3.img.png/1494586174832.png","detailsUrl":"ottawa"},
+  {"title":"San Jose","description":"Adobe Worldwide Headquarters","address":"345 Park Avenue  San Jose CA","phone":"14085551212","latitude":37.33065550000001,"longitude":-121.8939681,"imgUrl1":"content/mobileapps/hybrid-reference-app/en/welcome/locations/sanjose/jcr_content/cards/img1.img.jpg/1494586169604.jpg","imgUrl2":"content/mobileapps/hybrid-reference-app/en/welcome/locations/sanjose/jcr_content/cards/img2.img.jpg/1494586175454.jpg","imgUrl3":"content/mobileapps/hybrid-reference-app/en/welcome/locations/sanjose/jcr_content/cards/img3.img.jpg/1494586177374.jpg","detailsUrl":"sanjose"},
+  {"title":"San Francisco","description":"","address":"601 Townsend Street  San Francisco CA 94103","phone":"415-832-2000","latitude":37.7714605,"longitude":-122.4021046,"imgUrl1":"content/mobileapps/hybrid-reference-app/en/welcome/locations/sanfrancisco/jcr_content/cards/img1.img.png/1494586179118.png","imgUrl2":"content/mobileapps/hybrid-reference-app/en/welcome/locations/sanfrancisco/jcr_content/cards/img2.img.jpg/1494586174606.jpg","imgUrl3":"content/mobileapps/hybrid-reference-app/en/welcome/locations/sanfrancisco/jcr_content/cards/img3.img.png/1494586179224.png","detailsUrl":"sanfrancisco"}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

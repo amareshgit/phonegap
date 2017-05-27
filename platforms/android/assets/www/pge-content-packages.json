@@ -1,0 +1,10 @@
+{
+   "content": [{
+      "name": "shell",
+      "title": "Hybrid Mobile App",
+      "type": "INSTANCE",
+      "path": "/content/mobileapps/hybrid_referenceapp/shell",
+      "updatePath": "/content/mobileapps/hybrid_referenceapp/shell/jcr:content/pge-app/app-config"
+      }],
+   "serverURL": "http://localhost:4503/"
+   }
